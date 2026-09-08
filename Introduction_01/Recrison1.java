@@ -7,7 +7,7 @@ public class Recrison1 {
                 return;
             }
             fun(n-1);
-            System.out.println(n);
+            System.out.println("name");
     }
 
     public static void main(String[] args) {
